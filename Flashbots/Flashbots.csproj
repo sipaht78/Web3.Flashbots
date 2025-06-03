@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Nethereum.Web3" Version="4.5.0" />
+    <PackageReference Include="Nethereum.Web3" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
